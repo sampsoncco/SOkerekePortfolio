@@ -25,11 +25,19 @@
 - Utilized various visualization techniques including LODs to provide comprehensive insights into borrower demographics, loan terms, and payment patterns
 ![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
 
+### Marketing Performance Dashboard - PowerBI Project
+[Project Publication](https://app.powerbi.com/groups/me/reports/a2720035-35e6-49cc-bb55-cb14db925643/70a8d4b6aaf6db76ef96?experience=power-bi)
+<img width="947" alt="TrendLines" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/76e50def-ff3c-41a6-9903-338bb50ea26d">
+<img width="947" alt="MPD" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/ef124fbf-3c72-431a-a1b4-c65136ac0f93">
 
+Developed an interactive dashboard using **PowerBI** that can be used to help a marketing agency find insights and make data-driven decisions in their strategy for advertising their program in which the goal is to drive conversions.
 
+### Bank Loan Reports - SQL Project 
+[Project Publication](https://github.com/sampsoncco/Sampson-Okereke-SQL-Portfolio-/blob/main/Bank%20Loan%20Reports.sql)
 
-
-
+-Used various clauses and functions to report on different borrowers who took out a loan from the bank like; join clauses, concat functions, datepart functions, etc...
+-Aggregated the data by various different characteristics
+-Utlized CTEs
 
 ### Education
 - B.S., Information Systems | Morgan State University (_May 2022_)
