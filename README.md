@@ -36,9 +36,9 @@ Developed an interactive dashboard using **PowerBI** that can be used to help a 
 ### Bank Loan Reports - SQL Project 
 [Project Publication](https://github.com/sampsoncco/Sampson-Okereke-SQL-Portfolio-/blob/main/Bank%20Loan%20Reports.sql)
 
--Used various clauses and functions to report on different borrowers who took out a loan from the bank like; join clauses, concat functions, datepart functions, etc...
--Aggregated the data by various different characteristics
--Utlized CTEs
+- Used various clauses and functions to report on different borrowers who took out a loan from the bank like; join clauses, concat functions, datepart functions, etc...
+- Aggregated the data by various different characteristics
+- Utlized CTEs
 
 ### Education
 - B.S., Information Systems | Morgan State University (_May 2022_)
