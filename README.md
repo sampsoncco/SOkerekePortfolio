@@ -22,7 +22,7 @@
 - Developed an interactive dynamic dashboard in **Tableau** to analyze loan data, leveraging a CSV file containing detailed information on 20,000 borrowers.
 - Utilized various visualization techniques including LODs to provide comprehensive insights into borrower demographics, loan terms, and payment patterns
 
-https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Sampson%20Headshot.JPG?raw=true
+![Sampson Headshot](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Sampson%20Headshot.JPG?raw=true)
 
 
 
