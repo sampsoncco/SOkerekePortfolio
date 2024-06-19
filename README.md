@@ -19,14 +19,14 @@
 
 ## Projects
 ### Loan Information Dashboard - Tableau Project 
-[Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/LoanInformationDashboard/ExecutiveDashboard#1)
+[Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/LoanInformationDashboard/ExecutiveDashboard#1)
 
 - Developed an interactive dynamic dashboard in **Tableau** to analyze loan data, leveraging a CSV file containing detailed information on 20,000 borrowers.
 - Utilized various visualization techniques including LODs to provide comprehensive insights into borrower demographics, loan terms, and payment patterns
 ![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
 
 ### Marketing Performance Dashboard - PowerBI Project
-[Project Publication](https://app.powerbi.com/groups/me/reports/a2720035-35e6-49cc-bb55-cb14db925643/70a8d4b6aaf6db76ef96?experience=power-bi)
+[PowerBI Project Publication](https://app.powerbi.com/groups/me/reports/a2720035-35e6-49cc-bb55-cb14db925643/70a8d4b6aaf6db76ef96?experience=power-bi)
 
 <img width="947" alt="MPD" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/ef124fbf-3c72-431a-a1b4-c65136ac0f93">
 <img width="947" alt="TrendLines" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/76e50def-ff3c-41a6-9903-338bb50ea26d">
