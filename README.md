@@ -1,9 +1,6 @@
-![Sampson Headshot](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/684efd66-aa51-4fd9-80c5-61fac58ea56d)
-
-
 # Business Intelligence Developer 
 
-### Technical Skills: Tableau, Microsoft PowerBI, SQL, Snowflake, Python, Excel, Microsoft Azure, Adobe Analytics, Google Analytics
+### Technical Skills: Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
 
 ### Work Experience
 **Marketing Analyst @ Truth Initiative (_June 2022 - Present_)**
