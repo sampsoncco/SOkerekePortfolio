@@ -1,5 +1,8 @@
 # Business Intelligence Developer 
 
+## About 
+Highly skilled Business Intelligence Developer with years of experience in data analysis and visualization. Proven track record of developing interactive dashboards, enhancing data exploration and decision-making capabilities, and ensuring ensuring data integrity and accuracy through thorough quality assurance practices. Expertise in SQL, Tableau, PowerBI, and Excel, with a Bachelor's degree in Information Systems.
+
 ### Technical Skills: Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
 
 ### Work Experience
