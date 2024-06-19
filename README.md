@@ -35,7 +35,11 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 <img width="947" alt="MPD" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/ef124fbf-3c72-431a-a1b4-c65136ac0f93">
 <img width="947" alt="TrendLines" src="https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/76e50def-ff3c-41a6-9903-338bb50ea26d">
 
-Developed an interactive dashboard using **PowerBI** that can be used to help a marketing agency find insights and make data-driven decisions in their strategy for advertising their program in which the goal is to drive conversions.
+- Developed an interactive dashboard using **PowerBI** that can be used to help a marketing agency find insights and make data-driven decisions in their strategy for advertising their program in which the goal is to drive conversions
+- Data modeling and transformation within PowerBI
+- Creating dynamic and interactive visualizations
+- Implementing advanced filter options and slicers
+- Developing KPI indicators and trend analysis graphs
 
 ### Bank Loan Reports - SQL Project 
 [Project Publication](https://github.com/sampsoncco/Sampson-Okereke-SQL-Portfolio-/blob/main/Bank%20Loan%20Reports.sql)
