@@ -35,19 +35,23 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 
 ### Work Experience
 **Marketing Analyst @ Truth Initiative (_June 2022 - Present_)**
-- Developed and maintained interactive dashboards in Tableau, applying advanced actions such as filters, highlights, and URL integrations
-- Collaborated with cross-functional teams to identify and prioritize each department's specific analytical needs
-- Authored and maintained SQL queries to efficiently integrate and organize diverse datasets into Tableau, ensuring seamless data visualization and analysis.
-- Managed the ETL process, ensuring efficient and accurate data transfers from Supermetrics to the Snowflake Database.
-- Analyzed data and provided actionable recommendations for resource allocation, resulting in increased operational efficiency and optimized spending.
-- Wrote complex queries utilizing JOINs, sub-queries, and correlated sub-queries to retrieve and combine data from multiple tables for comprehensive analysis.
-- Led the quality assurance process to ensure data accuracy and reliability, facilitating confident and informed decision-making.
-- Developed and managed projects in Adobe Analytics to report on key website metrics
+- Develop and maintain interactive dashboards in Tableau, applying advanced actions such as filters, highlights, and URL integrations
+- Collaborate with cross-functional teams to identify and prioritize each department's specific analytical needs
+- Authored and maintained SQL queries to efficiently integrate and organize diverse datasets into Tableau, ensuring
+seamless data visualization and analysis
+- Manage ETL processes, moving and transforming data from 10+ data sources to Snowflake Data Warehouse
+- Analyze data and provided actionable recommendations for resource allocation, resulting in increased operational
+efficiency and optimized spending
+- Write complex queries utilizing JOINs, sub-queries, and correlated sub-queries to retrieve and combine data from
+multiple tables for comprehensive analysis
+- Lead the quality assurance process to ensure data accuracy and reliability, facilitating confident and informed
+decision-making
+- Develop and manage projects in Adobe Analytics to report on key website metrics
 
 **Technical Assistant @ Morgan State University (_September 2020 - May 2022_)**
--	Ran the organization’s social media accounts (Facebook, LinkedIn, and Twitter), interacted with the community around the organization and made 50+ promotional posts.
--	Planned 4+ successful community events that brought awareness of the organizations cause to 100+ students.
--	Created digital content for company website to bring awareness to organizations cause (blog posts, video content, press release)
+-	Managed and maintained social media platforms, engaging with the community and executing over 50 promotional posts to enhance the organization's online presence.
+-	Developed and curated a variety of digital content, including blog posts, video materials, and press releases, to promote the organization's mission and activities
+-	Organized and executed a series of community events, successfully increasing organizational awareness among a student audience exceeding 100 individuals
 
 ### Education
 B.S., Information Systems | Morgan State University (_May 2022_)
