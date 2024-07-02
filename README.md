@@ -1,7 +1,7 @@
 # Business Intelligence Developer 
 
 ### Summary
-Highly skilled Business Intelligence Developer with years of experience in data analysis and visualization. Proven track record of developing interactive dashboards, enhancing data exploration and decision-making capabilities, and ensuring ensuring data integrity and accuracy through thorough quality assurance practices. Expertise in SQL, Tableau, PowerBI, and Excel, with a Bachelor's degree in Information Systems.
+Seeking a Business Intelligence Analyst role with a Bachelor’s Degree in Information Systems, offering 3 years of experience in data analysis and visualization. Skilled in creating dashboards and reports using Tableau, PowerBI, and Excel. Proficient in SQL, DAX, and database management, ensuring data integrity for informed decision-making.
 
 ### Technical Skills: 
 Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
@@ -26,25 +26,28 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 - Implementing advanced filter options and slicers
 - Developing KPI indicators and trend analysis graphs
 
-### Work Experience
-**Marketing Analyst @ Truth Initiative (_June 2022 - Present_)**
-- Creating dashboards by leveraging techniques such as parameters, sets, groups, and calculations for granular and drill-down perspective of the reports.
-- Work with stakeholders to identify and prioritize analytics needs.
-- Generate weekly performance tracking reports for advertisement campaigns using Tableau, Excel, and PowerPoint, contributing to a 15% improvement in campaign optimization.
-- Authored and continually updated SQL queries to seamlessly incorporate and organize diverse datasets into Tableau
-- Writing queries to fetch data from different tables using JOINs, sub-queries, and correlated sub-queries. • Assure the quality of data within Tableau, ensuring accuracy, consistency, and reliability of visualizations and reports, thus facilitating confident decision-making.
-
-**Business Intelligence Intern @ Skybarrel Academy (_September 2020 - May 2022_)**
-- Developed visual reports, dashboards, and KPI scoreboards using Power BI desktop 
-- Proficient in making DAX queries in Power BI desktop
-- Created new database objects like Tables, Procedures, Functions, Indexes and Views
-
 ### Bank Loan Reports - SQL Project 
 [Project Publication](https://github.com/sampsoncco/Sampson-Okereke-SQL-Portfolio-/blob/main/Bank%20Loan%20Reports.sql)
 
 - Used various clauses and functions to report on different borrowers who took out a loan from the bank like; join clauses, concat functions, datepart functions, etc...
 - Aggregated the data by various different characteristics
 - Utlized CTEs
+
+### Work Experience
+**Marketing Analyst @ Truth Initiative (_June 2022 - Present_)**
+- Developed and maintained interactive dashboards in Tableau, applying advanced actions such as filters, highlights, and URL integrations
+- Collaborated with cross-functional teams to identify and prioritize each department's specific analytical needs
+- Authored and maintained SQL queries to efficiently integrate and organize diverse datasets into Tableau, ensuring seamless data visualization and analysis.
+- Managed the ETL process, ensuring efficient and accurate data transfers from Supermetrics to the Snowflake Database.
+- Analyzed data and provided actionable recommendations for resource allocation, resulting in increased operational efficiency and optimized spending.
+- Wrote complex queries utilizing JOINs, sub-queries, and correlated sub-queries to retrieve and combine data from multiple tables for comprehensive analysis.
+- Led the quality assurance process to ensure data accuracy and reliability, facilitating confident and informed decision-making.
+- Developed and managed projects in Adobe Analytics to report on key website metrics
+
+**Technical Assistant @ Morgan State University (_September 2020 - May 2022_)**
+-	Ran the organization’s social media accounts (Facebook, LinkedIn, and Twitter), interacted with the community around the organization and made 50+ promotional posts.
+-	Planned 4+ successful community events that brought awareness of the organizations cause to 100+ students.
+-	Created digital content for company website to bring awareness to organizations cause (blog posts, video content, press release)
 
 ### Education
 B.S., Information Systems | Morgan State University (_May 2022_)
