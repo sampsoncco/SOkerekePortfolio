@@ -1,4 +1,4 @@
-# Business Intelligence Developer 
+# Business Intelligence Analyst 
 
 ### Summary
 Seeking a Business Intelligence Analyst role with a Bachelor’s Degree in Information Systems, offering 3 years of experience in data analysis and visualization. Skilled in creating dashboards and reports using Tableau, PowerBI, and Excel. Proficient in SQL, DAX, and database management, ensuring data integrity for informed decision-making.
