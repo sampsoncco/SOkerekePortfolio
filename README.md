@@ -48,7 +48,12 @@ multiple tables for comprehensive analysis
 decision-making
 - Develop and manage projects in Adobe Analytics to report on key website metrics
 
-**Technical Assistant @ Morgan State University (_September 2020 - May 2022_)**
+**Business Intelligence Internship @ Skybarrel Academy (_Februrary 2020 - May 2022_)**
+- Developed visual reports, dashboards, and KPI scoreboards using PowerBI desktop
+- Proficient in making DAX queries in PowerBI desktop
+- Created new database objects like tables, procedures, functions, indexes, and views
+
+**Technical Assistant @ Morgan State University (_September 2018 - December 2019_)**
 -	Managed and maintained social media platforms, engaging with the community and executing over 50 promotional posts to enhance the organization's online presence.
 -	Developed and curated a variety of digital content, including blog posts, video materials, and press releases, to promote the organization's mission and activities
 -	Organized and executed a series of community events, successfully increasing organizational awareness among a student audience exceeding 100 individuals
