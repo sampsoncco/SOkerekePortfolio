@@ -35,28 +35,19 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 
 ### Work Experience
 **Marketing Analyst @ Truth Initiative (_June 2022 - Present_)**
-- Develop and maintain interactive dashboards in Tableau, applying advanced actions such as filters, highlights, and URL integrations
-- Collaborate with cross-functional teams to identify and prioritize each department's specific analytical needs
-- Authored and maintained SQL queries to efficiently integrate and organize diverse datasets into Tableau, ensuring
-seamless data visualization and analysis
-- Manage ETL processes, moving and transforming data from 10+ data sources to Snowflake Data Warehouse
-- Analyze data and provided actionable recommendations for resource allocation, resulting in increased operational
-efficiency and optimized spending
-- Write complex queries utilizing JOINs, sub-queries, and correlated sub-queries to retrieve and combine data from
-multiple tables for comprehensive analysis
-- Lead the quality assurance process to ensure data accuracy and reliability, facilitating confident and informed
-decision-making
-- Develop and manage projects in Adobe Analytics to report on key website metrics
+- Create and manage interactive Tableau dashboards that provide real-time insights, enhancing decision making processes and resulting in a 50% boost in operational efficiency
+- Collaborate with 5+ cross-functional teams to define and prioritize key analytical requirements, ensuring alignment with business objectives and enhancing project outcomes
+- Craft and maintain complex SQL queries, integrating and structuring diverse datasets within Tableau to support robust data analysis and reporting
+- Execute a comprehensive ETL strategy, managing the transfer of 500,000+ records to the Snowflake Data Warehouse
+- Analyze over $1M in monthly marketing spend data and provide actionable recommendations for resource allocation, leading to a 15% increase in cost optimization effectiveness
+- Spearheaded the development of quality assurance processes to identify and rectify data inconsistencies, improving data reliability by 25% and enhancing executive confidence in data-driven strategies
+- Facilitated training sessions, trained over 10 stakeholders on utilizing Tableau dashboards to uncover insights and enhance data-driven decision-making
+- Coached 2 new analytical team members on using business intelligence tools for effective data analysis
 
-**Business Intelligence Internship @ Skybarrel Academy (_Februrary 2020 - May 2022_)**
-- Developed visual reports, dashboards, and KPI scoreboards using PowerBI desktop
-- Proficient in making DAX queries in PowerBI desktop
-- Created new database objects like tables, procedures, functions, indexes, and views
-
-**Technical Assistant @ Morgan State University (_September 2018 - December 2019_)**
--	Managed and maintained social media platforms, engaging with the community and executing over 50 promotional posts to enhance the organization's online presence.
--	Developed and curated a variety of digital content, including blog posts, video materials, and press releases, to promote the organization's mission and activities
--	Organized and executed a series of community events, successfully increasing organizational awareness among a student audience exceeding 100 individuals
+**Technical Assistant @ Morgan State University (_September 2019 - May 2022_)**
+-	Managed social media platforms, engaged with the community and executed over 200 promotional posts to enhance the organization's online presence
+-	Created over 50 digital content pieces; including blog posts, video materials, and press releases to promote the organization's mission and activities
+-	Directed a series of community events, increasing organizational awareness among a student audience exceeding 100 individuals
 
 ### Education
 B.S., Information Systems | Morgan State University (_May 2022_)
