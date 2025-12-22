@@ -7,6 +7,15 @@ Seeking a Business Intelligence Analyst role with a Bachelor’s Degree in Infor
 Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
 
 ## Projects
+
+### Digital Marketing Performance - Tableau Project 
+[Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/DigitalMarketingPerformance_17664338977580/ExecutiveDashboard#1)
+- Built an interactive Tableau dashboard suite (Executive + Budget Optimization) to monitor multi-channel digital performance across Paid Search, Meta, TikTok, YouTube, and CTV, with drill-down filters for age, campaign, ad type, creative asset, video length, and date range.
+- Developed standardized KPI framework (Spend, Conversions, CPC, CTR, View Rate, Completion Rate) and executive visuals including weekly trend analysis, channel benchmarking, and top creative leaderboards to quickly identify what’s working and what needs optimization.
+- Created a Channel & Budget Optimization dashboard featuring spend share vs conversion share KPI cards, Spend vs Conversions bubble chart, and Conversions per $1K spend efficiency ranking to support data-driven budget reallocation decisions.
+- Implemented Tableau calculations (blended rates + efficiency metrics) and ranking logic (Top-N channels/creatives) to surface performance drivers, highlight tradeoffs (efficiency vs visibility), and enable interview-ready storytelling.
+- Designed dashboards with clear executive layout and usability (consistent formatting, logical visual hierarchy, embedded summary tables) to accelerate stakeholder decision-making and reduce time-to-insight.
+
 ### Loan Information Dashboard - Tableau Project 
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/LoanInformationDashboard/ExecutiveDashboard#1)
 
