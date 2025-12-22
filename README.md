@@ -12,6 +12,9 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 <img width="1498" height="832" alt="image" src="https://github.com/user-attachments/assets/9344109a-5597-4239-b7cc-0c069140ed0c" />
 <img width="1526" height="860" alt="image" src="https://github.com/user-attachments/assets/5b9eda10-4e3f-4a5d-9ddc-79c6c0737b27" />
 
+<img width="3998" height="2198" alt="image" src="https://github.com/user-attachments/assets/066e0cfb-38ab-4e8e-b3e6-dd4fbded52f2" />
+
+
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/DigitalMarketingPerformance_17664338977580/ExecutiveDashboard#1)
 - Built an interactive Tableau dashboard suite (Executive + Budget Optimization) to monitor multi-channel digital performance across Paid Search, Meta, TikTok, YouTube, and CTV, with drill-down filters for age, campaign, ad type, creative asset, video length, and date range.
 - Developed standardized KPI framework (Spend, Conversions, CPC, CTR, View Rate, Completion Rate) and executive visuals including weekly trend analysis, channel benchmarking, and top creative leaderboards to quickly identify what’s working and what needs optimization.
