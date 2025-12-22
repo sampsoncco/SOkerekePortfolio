@@ -10,6 +10,7 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 
 ### Digital Marketing Performance - Tableau Project 
 <img width="1498" height="832" alt="image" src="https://github.com/user-attachments/assets/9344109a-5597-4239-b7cc-0c069140ed0c" />
+<img width="1526" height="860" alt="image" src="https://github.com/user-attachments/assets/5b9eda10-4e3f-4a5d-9ddc-79c6c0737b27" />
 
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/DigitalMarketingPerformance_17664338977580/ExecutiveDashboard#1)
 - Built an interactive Tableau dashboard suite (Executive + Budget Optimization) to monitor multi-channel digital performance across Paid Search, Meta, TikTok, YouTube, and CTV, with drill-down filters for age, campaign, ad type, creative asset, video length, and date range.
@@ -19,11 +20,12 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 - Designed dashboards with clear executive layout and usability (consistent formatting, logical visual hierarchy, embedded summary tables) to accelerate stakeholder decision-making and reduce time-to-insight.
 
 ### Loan Information Dashboard - Tableau Project 
+![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
+
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/LoanInformationDashboard/ExecutiveDashboard#1)
 
 - Developed an interactive dynamic dashboard in **Tableau** to analyze loan data, leveraging a CSV file containing detailed information on 20,000 borrowers.
 - Utilized various visualization techniques including LODs to provide comprehensive insights into borrower demographics, loan terms, and payment patterns
-![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
 
 ### Marketing Performance Dashboard - PowerBI Project
 [PowerBI Project Publication](https://app.powerbi.com/groups/me/reports/a2720035-35e6-49cc-bb55-cb14db925643/70a8d4b6aaf6db76ef96?experience=power-bi)
