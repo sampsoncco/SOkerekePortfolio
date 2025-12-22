@@ -10,7 +10,7 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 
 ### Digital Marketing Performance - Tableau Project 
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Executive%20Dashboard.png?raw=true)
-
+![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Channel%20&%20Budget%20Optimization.png?raw=true)
 
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/DigitalMarketingPerformance_17664338977580/ExecutiveDashboard#1)
 - Built an interactive Tableau dashboard suite (Executive + Budget Optimization) to monitor multi-channel digital performance across Paid Search, Meta, TikTok, YouTube, and CTV, with drill-down filters for age, campaign, ad type, creative asset, video length, and date range.
