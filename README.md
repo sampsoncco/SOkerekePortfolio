@@ -9,7 +9,7 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 ## Projects
 
 ### Digital Marketing Performance - Tableau Project 
-https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Executive%20Dashboard.png?raw=true<img width="3998" height="2198" alt="image" src="https://github.com/user-attachments/assets/6712f060-a927-43db-85c3-3062169c7d62" />
+<img width="3998" height="2198" alt="image" src="https://github.com/user-attachments/assets/6712f060-a927-43db-85c3-3062169c7d62" />
 
 
 
