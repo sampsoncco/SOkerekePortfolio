@@ -1,7 +1,7 @@
 # Business Intelligence Analyst 
 
 ### Summary
-Seeking a Business Intelligence Analyst role with a Bachelor’s Degree in Information Systems, offering 3 years of experience in data analysis and visualization. Skilled in creating dashboards and reports using Tableau, PowerBI, and Excel. Proficient in SQL, DAX, and database management, ensuring data integrity for informed decision-making.
+Data Analyst with 3+ years of experience supporting marketing and business operations through scalable BI solutions. Skilled in building interactive Tableau dashboards, writing advanced SQL, and automating reporting workflows to improve data-driven decision-making. Experienced integrating multi-source datasets and optimizing ETL pipelines to enhance data quality and deliver timely performance insights.
 
 ### Technical Skills: 
 Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
