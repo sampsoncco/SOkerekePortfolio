@@ -11,13 +11,14 @@ Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analy
 ### Digital Marketing Performance - Tableau Project 
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Executive%20Dashboard.png?raw=true)
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Channel%20&%20Budget%20Optimization.png?raw=true)
+![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Ad%20Type%20&%20Creative%20Performance.png?raw=true)
 
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/DigitalMarketingPerformance_17664338977580/ExecutiveDashboard#1)
-- Built an interactive Tableau dashboard suite (Executive + Budget Optimization) to monitor multi-channel digital performance across Paid Search, Meta, TikTok, YouTube, and CTV, with drill-down filters for age, campaign, ad type, creative asset, video length, and date range.
-- Developed standardized KPI framework (Spend, Conversions, CPC, CTR, View Rate, Completion Rate) and executive visuals including weekly trend analysis, channel benchmarking, and top creative leaderboards to quickly identify what’s working and what needs optimization.
-- Created a Channel & Budget Optimization dashboard featuring spend share vs conversion share KPI cards, Spend vs Conversions bubble chart, and Conversions per $1K spend efficiency ranking to support data-driven budget reallocation decisions.
-- Implemented Tableau calculations (blended rates + efficiency metrics) and ranking logic (Top-N channels/creatives) to surface performance drivers, highlight tradeoffs (efficiency vs visibility), and enable interview-ready storytelling.
-- Designed dashboards with clear executive layout and usability (consistent formatting, logical visual hierarchy, embedded summary tables) to accelerate stakeholder decision-making and reduce time-to-insight.
+- Built a 3-dashboard Tableau Public workbook to track full-funnel digital marketing performance and support executive decision-making on budget allocation and creative strategy.
+- Designed an Executive Dashboard with KPI scorecards, weekly spend/efficiency trendlines, and channel performance comparisons to quickly answer “what’s driving results and what’s changing over time.”
+- Developed a Channel & Budget Optimization view highlighting efficiency gaps (e.g., conversion share vs spend share) and surfacing reallocation opportunities using spend vs conversions, conversions per $1K, and trend analysis.
+- Created an Ad Type & Creative Performance dashboard ranking formats by funnel KPIs with best/2nd-best cards and supporting charts to recommend which ad types to scale for awareness, engagement, and conversion goals.
+- Implemented reusable calculated fields and KPIs (e.g., CTR, CVR, CPA, view rate, completion rate, engagement rate, spend share and conversion share) and standardized formatting to support executive-level storytelling and fast filtering by date, campaign, channel, ad type, and audience.
 
 ### Loan Information Dashboard - Tableau Project 
 ![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
