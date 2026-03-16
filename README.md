@@ -1,10 +1,11 @@
-# Business Intelligence Analyst 
+# Business Intelligence & Data Analyst 
 
-### Summary
-Data Analyst with 3+ years of experience supporting marketing and business operations through scalable BI solutions. Skilled in building interactive Tableau dashboards, writing advanced SQL, and automating reporting workflows to improve data-driven decision-making. Experienced integrating multi-source datasets and optimizing ETL pipelines to enhance data quality and deliver timely performance insights.
+### Professional Summary
+Business Intelligence & Data Analyst with 3+ years of experience delivering scalable reporting and analytics solutions using SQL, Tableau, and modern BI tools. Skilled in developing automated dashboards, integrating multi-source datasets and analyzing performance metrics to uncover insights that drive strategic decisions. Proven ability to partner with cross-functional teams and translate complex data into clear, executive-ready
+visualizations.
 
 ### Technical Skills: 
-Tableau|Microsoft PowerBI|SQL|Snowflake|Python|Excel|Microsoft Azure|Adobe Analytics|Google Analytics
+SQL (Snowflake) • Tableau • Power BI • Dashboard Development • Data Visualization • Business Intelligence (BI) • ETL / ELT • Data Modeling • Data QA & Validation • Data Integration • Exploratory Data Analysis • KPI & Performance Analysis • Funnel Analysis • Marketing Analytics • Campaign Performance Analysis • Channel Performance Analysis • Budget Optimization • Google Analytics • Adobe Analytics • A/B Testing • Executive Dashboarding • Data Storytelling • Excel
 
 ## Projects
 
