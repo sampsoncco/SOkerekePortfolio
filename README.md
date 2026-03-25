@@ -10,6 +10,7 @@ SQL (Snowflake) • Tableau • Power BI • Dashboard Development • Data Visu
 ## Projects
 
 ### Digital Marketing Performance - Tableau Project 
+![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Digital%20Performance%20Dashboard.png?raw=true)
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Executive%20Dashboard.png?raw=true)
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Channel%20&%20Budget%20Optimization.png?raw=true)
 ![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Ad%20Type%20&%20Creative%20Performance.png?raw=true)
@@ -22,6 +23,7 @@ SQL (Snowflake) • Tableau • Power BI • Dashboard Development • Data Visu
 - Implemented reusable calculated fields and KPIs (e.g., CTR, CVR, CPA, view rate, completion rate, engagement rate, spend share and conversion share) and standardized formatting to support executive-level storytelling and fast filtering by date, campaign, channel, ad type, and audience.
 
 ### Loan Information Dashboard - Tableau Project 
+![image alt](https://github.com/sampsoncco/SOkerekePortfolio/blob/main/Loan%20Information%20Dashboard.png?raw=true)
 ![Executive Dashboard](https://github.com/sampsoncco/SOkerekePortfolio/assets/122312933/cdb60e5b-2fad-49cf-9393-0deea0b8f10b)
 
 [Tableau Project Publication](https://public.tableau.com/app/profile/sampson.okereke/viz/LoanInformationDashboard/ExecutiveDashboard#1)
